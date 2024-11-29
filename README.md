@@ -7,7 +7,7 @@
 
 <!-- 个性化标语 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=前端开发工程师%20|%20Vue开发专家%20|%20开源爱好者;&center=true&size=20&color=00b4d8">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=前端开发工程师%20|%20Vue,react开发%20|%20开源爱好者;&center=true&size=20&color=00b4d8">
 </div>
 
 <!-- 统计徽章 -->
