@@ -27,7 +27,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
 
-- 🚀 目前职位: Java开发工程师
+- 🚀 目前职位: 前端开发工程师
 - 🌱 正在学习: `SpringCloud` `Vue3` `React` `微服务`
 - 🎯 计划学习: `云原生` `K8s` `DevOps`
 - 💬 擅长领域: `Java开发` `SpringBoot` `MySQL`
