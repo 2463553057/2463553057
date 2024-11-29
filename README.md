@@ -2,7 +2,7 @@
 
 <!-- 标题使用渐变色 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋%20你好，我是阿杰;Welcome%20To%20My%20Profile!&center=true&size=27&color=f75c7e">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋%20你好，我是98k;Welcome%20To%20My%20Profile!&center=true&size=27&color=f75c7e">
 </h1>
 
 <!-- 个性化标语 -->
