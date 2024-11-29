@@ -1,112 +1,119 @@
 <div align="center">
-  
-# 👋 你好，我是 [程序员98k] 
-### 热爱编程 | 热爱生活 | 终身学习
 
+<!-- 标题使用渐变色 -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋%20你好，我是程序员98k;Welcome%20To%20My%20Profile!&center=true&size=27&color=f75c7e">
+</h1>
+
+<!-- 个性化标语 -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=热爱编程%20|%20热爱生活%20|%20终身学习;&center=true&size=20&color=00b4d8">
+</div>
+
+<!-- 统计徽章 -->
 <p>
-  <img src="https://img.shields.io/github/followers/你的用户名?label=Followers&style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/你的用户名?style=social" alt="GitHub stars">
-  <img src="https://komarev.com/ghpvc/?username=你的用户名&color=brightgreen" alt="访问量">
+  <img src="https://img.shields.io/github/followers/你的用户名?label=Followers&style=for-the-badge&color=ff69b4" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/你的用户名?style=for-the-badge&color=ffd700" alt="GitHub stars">
+  <img src="https://komarev.com/ghpvc/?username=你的用户名&style=for-the-badge&color=blueviolet" alt="访问量">
 </p>
 
 </div>
 
-## 🎯 个人简介
-> 热爱技术，热爱开源，希望为开源社区贡献一份力量
+<!-- 使用自定义样式的分割线 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🔭 我目前正在做: 全栈开发
-- 🌱 正在学习: java springboot react nextjs 
-- 🤔 计划学习: java springboot react nextjs
-- 💬 可以问我关于: Web开发、系统设计
-- 📫 联系我: [发邮件](mailto:2463553057@qq.com)
-- 😄 代称: 你的昵称
-- ⚡ 有趣的事: 我能一口气写100行代码不带注释
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 个人简介
+> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> 热爱技术，热爱开源，希望为开源社区贡献一份力量
 
-## 🛠️ 技术栈
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
+
+- 🚀 我目前正在做: 全栈开发
+- 🌱 正在学习: `Java` `SpringBoot` `React` `NextJS` 
+- 🎯 计划学习: `微服务` `云原生` `AI`
+- 💬 可以问我关于: `Web开发` `系统设计`
+- 📫 联系我: [📧](mailto:2463553057@qq.com)
+- ⚡ 有趣的事: 我能一口气写`100`行代码不带注释
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> 技术栈
 <div align="center">
+
+<details open>
+<summary><b>🎨 前端</b></summary>
+<br>
   
-### 前端
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=000000)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=next.js)
+</details>
 
-### 后端
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+<details open>
+<summary><b>⚡ 后端</b></summary>
+<br>
 
-### 工具
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=ffffff)
+</details>
+
+<details open>
+<summary><b>🛠️ 开发工具</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+![IntelliJ IDEA](https://img.shields.io/badge/IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+</details>
 
 </div>
 
-## 📊 统计信息
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> 统计信息
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=你的用户名&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&hide_title=true&hide_border=true&layout=compact&theme=radical" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Github Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
+<!-- GitHub 连续提交记录 -->
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=radical&hide_border=true" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 成就墙
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=你的用户名&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 贡献图
+![](https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=radical&hide_border=true&area=true)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎵 最近在听
+<div align="center">
+  <img width="50%" src="https://spotify-github-profile.vercel.app/api/view?uid=你的SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 </div>
 
 <div align="center">
+  <!-- 随机名言 -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="90%"/>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=radical)](https://git.io/streak-stats)
-
-</div>
-
-## 🏆 获得成就
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=你的用户名&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 📌 精选项目
-<div align="center">
-  
-[![项目1](https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目1&theme=radical)](https://github.com/你的用户名/项目1)
-[![项目2](https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目2&theme=radical)](https://github.com/你的用户名/项目2)
-
-</div>
-
-## 🤝 社交链接
-<div align="center">
-  
-[![Blog](https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://你的博客地址)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/你的ID)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/你的ID)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/你的ID)
-
-</div>
-
-## 📝 最新博客文章
-<!-- BLOG-POST-LIST:START -->
-- [文章标题1](文章链接1)
-- [文章标题2](文章链接2)
-- [文章标题3](文章链接3)
-<!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-  
-### 🎵 正在听的音乐
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=你的SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=你的SPOTIFY_ID&redirect=true)
-
-### 📊 本周编码时间
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <!-- 贪吃蛇贡献图 -->
+  <img src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake.svg" />
   
   ### 如果我的项目对你有帮助，欢迎给我一个 ⭐️
 </div>
+
+<!-- 页脚 -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
